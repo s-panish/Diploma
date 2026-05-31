@@ -1,0 +1,2 @@
+#chr	start	end	mean_bad	id	max_cover	ref	alt	n_reps	ref_comb_es	alt_comb_es	ref_comb_pval	alt_comb_pval	ref_fdr_comb_pval	alt_fdr_comb_pval	pref_allele	comb_es	comb_pval	fdr_comb_pval	4729
+2	134261071	134261072	1.75	rs3791264	89	A	G	2	-1.3230858319054173	2.414594168780372	0.999999489161116	2.1540069518208126e-06	1.0	0.012368307917355105	alt	2.414594168780372	2.1540069518208126e-06	0.012368307917355105	4729
