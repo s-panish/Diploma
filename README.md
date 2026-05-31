@@ -2,7 +2,7 @@
 ## Схема пайплайна
 
 ```mermaid
-flowchart TD
+flowchart LR
     A["Данные<br/>UDACHA"] --> B["Фильтрация и подготовка<br/>BED-файлов"]
     B --> C["motifbreakR<br/>+ HOCOMOCO"]
     C --> D["Список нарушенных<br/>сайтов связывания"]
