@@ -1,4 +1,5 @@
 # Diploma
+Текст дипломной работы: https://docs.google.com/document/d/1o2yvjVYyHsSSNWKe-q8pB1RBUOX3xlwiG2k8Mcjq1ok/edit?tab=t.0
 ## Схема пайплайна
 
 ```mermaid
